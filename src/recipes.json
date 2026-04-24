@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Smoked salmon burger",
+    "time": 20,
+    "servings": 6,
+    "difficulty": 0,
+    "image": "https://source.unsplash.com/300x200/?burger"
+  },
+  {
+    "title": "Tomatoes With Creamy Feta",
+    "time": 15,
+    "servings": 3,
+    "difficulty": 0,
+    "image": "https://source.unsplash.com/300x200/?salad"
+  },
+  {
+    "title": "Spicy potato salad",
+    "time": 30,
+    "servings": 2,
+    "difficulty": 1,
+    "image": "https://source.unsplash.com/300x200/?potato"
+  },
+  {
+    "title": "Chicken Biryani",
+    "time": 40,
+    "servings": 4,
+    "difficulty": 2,
+    "image": "https://source.unsplash.com/300x200/?rice"
+  }
+]
